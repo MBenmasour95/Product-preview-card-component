@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [URL HERE](https://your-solution-url.com)
-- Live Site URL: [URL HERE](https://your-live-site-url.com)
+- Live Site URL: [URL HERE](https://mbenmasour95.github.io/Product-preview-card-component/)
 
 ## My process
 
