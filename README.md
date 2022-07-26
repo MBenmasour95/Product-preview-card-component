@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL HERE](https://your-solution-url.com)
+- Solution URL: [URL HERE](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-RDpidF-qhs)
 - Live Site URL: [URL HERE](https://mbenmasour95.github.io/Product-preview-card-component/)
 
 ## My process
